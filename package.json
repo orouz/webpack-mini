@@ -21,8 +21,14 @@
     "webpack": "^2.1.0-beta.25",
     "webpack-dev-server": "^2.1.0-beta.10"
   },
- "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/orouz/webpack2-mini.git"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.2"
   }
 }
